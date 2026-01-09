@@ -5,7 +5,7 @@ It features 20 long-form educational articles covering study tips, teaching stra
 
 No backend or database required — everything runs directly in the browser. 🚀  
 
----
+--
 
 ## 🌟 Features
 - 🏠 *Homepage* with a grid of 20 article previews  
