@@ -7,7 +7,7 @@ No backend or database required — everything runs directly in the browser. �
 
 --
 
-## 🌟 Features
+## 🌟 Features 
 - 🏠 *Homepage* with a grid of 20 article previews  
 - 📖 *Individual Article Pages* (expanded, easy-to-read content)  
 - 📱 *Fully Responsive* (works on mobile, tablet, and desktop)  
